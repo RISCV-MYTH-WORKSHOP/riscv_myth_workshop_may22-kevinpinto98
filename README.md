@@ -3,7 +3,7 @@
 
 This repository documents all the work that was done during the course of the [RISC-V MYTH Workshop](https://github.com/stevehoover/RISC-V_MYTH_Workshop).
 
-## Workshop Contents
+## Workshop Schedule
 * Day 1: Introduction to RISC-V ISA & GNU Compiler Toolchain
 * Day 2: Introduction to ABI and Basic Verification Flow
 * Day 3: Digital Logic with TL-Verilog and Makerchip
