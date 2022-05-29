@@ -10,9 +10,12 @@ This repository documents all the work that was done during the course of the [R
 * Day 4: Basic RISC-V CPU Microarchitecture
 * Day 5: Complete Pipelined RISC-V CPU Microarchitecture
 
-# Day 1: Introduction to RISC-V ISA and GNU Compiler Toolchain
-In Day 1 I have written a simple c-program to calculate the sum of numbers from 1 to a given integer (n). The program is as follows:
-![](C:/Users/91956/Desktop/RISCV_based_MYTH/Day_1)
+# Day 1: Introduction to RISC-V ISA & GNU Compiler Toolchain
+In Day 1, I have written a simple c-program to calculate the sum of numbers from 1 to a given integer (n). The program is as follows:
+
+![Program](Day_1/sum1ton_c-program.png)
+
+Kindly note that I have modified the program that was presentd in the lab to take input n from the user.
 
 
 **Note:** The reports for Days 2 to 5 are documented in the README.md files present in the folders of the respective days.
