@@ -49,9 +49,12 @@
          //         $start ? 1:
          //         >>3$valid;
          
-         $pc[31:0] = >>1$reset ? 0:
-                     >>3$taken_br ? >>3$br_tgt_pc:
-                     >>3$is_load ? >>3$inc_pc :  >>1$inc_pc;
+         $pc[31:0] = >>1$reset ? 0 : 
+                     >>3$valid_taken_br ? >>3$br_tgt_pc : 
+                     >>3$valid_load ? >>3$inc_pc : 
+                     (>>3$valid_jump && >>3$is_jal) ? >>3$br_tgt_pc : 
+                     (>>3$valid_jump && >>3$is_jalr) ? >>3$jalr_tgt_pc : 
+                     >>1$inc_pc;
          //$inc_pc[31:0] = >>1$pc + 32'd4;
          ?$neg_reset
             $imem_rd_en = 1;
@@ -258,4 +261,3 @@
    m4+cpu_viz(@4)    // For visualisation, argument should be at least equal to the last stage of CPU logic. @4 would work for all labs.
 \SV
    endmodule
-
