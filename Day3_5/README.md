@@ -76,6 +76,25 @@ In order to get comfortable with TL-Verilog we have implemnted several digitl ci
 ![Program](../Images/calculator_final_waveform2.png)
 
 ## Day 4: Basic RISC-V CPU Microarchitecture
+In Day 4 we have implemented the basic microarchitecture for the RISC-V ISA. The figure below depicts the basic microarchitecture that we will be implementing today.
+
+![Program](../Images/basic_microarchitecture.png)
+
+The code for the non-pipelined microarchitecture can be found in the file "non_pipelined_riscv_core.tlv" in the folder "Day3_5".
+
+The images below depict the relevant figures obtained during the compilation and simulation of the code in the Makerchip IDE.
+
+![Program](../Images/diagram_not_pipelined.png)
+
+![Program](../Images/viz_initial.png)
+
+![Program](../Images/viz_final.png)
+
+![Program](../Images/waveform_not_pipelined1.png)
+
+![Program](../Images/waveform_not_pipelined2.png)
+
+![Program](../Images/waveform_not_pipelined3.png)
 
 
 ## Day 5: Complete Pipelined RISC-V CPU Microarchitecture
