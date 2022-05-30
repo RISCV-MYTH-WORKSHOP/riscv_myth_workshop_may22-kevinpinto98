@@ -7,7 +7,7 @@ Refer to README at [stevehoover/RISC-V_MYTH_Workshop](https://github.com/steveho
 Add your codes in the [calculator_solutions.tlv](calculator_solutions.tlv) and [risc-v_solutions.tlv](risc-v_solutions.tlv) files and **keep committing** to your repository after every lab.
 
 ## Day 3: Digital Logic with TL-Verilog and Makerchip
-In Day 3, we have familiarized ourselves with the Makerchip IDE and the syntax of TL-Verilog. SOme features of TL-Verilog which make it unique are:
+In Day 3, we have familiarized ourselves with the Makerchip IDE and the syntax of TL-Verilog. Some features of TL-Verilog which make it unique are:
 
 * Easy Pipelining
 * Support for Timing Abstraction
@@ -15,7 +15,7 @@ In Day 3, we have familiarized ourselves with the Makerchip IDE and the syntax o
 * Enables faster development
 
 
-In order to get comfortable with TL-Verilog we have implemnted several digitl ciruits some of which are shown here.
+In order to get comfortable with TL-Verilog we have implemented several digitel ciruits some of which are shown here.
 
 * Inverter
 
