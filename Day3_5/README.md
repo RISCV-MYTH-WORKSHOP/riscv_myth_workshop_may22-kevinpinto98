@@ -63,9 +63,9 @@ In order to get comfortable with TL-Verilog we have implemented several digital 
 
 * Calculator
 
-![Program](../Images/pipeline_counter_and_calculator.png)
-
 ![Program](../Images/calculator_output.png)
+
+![Program](../Images/pipeline_counter_and_calculator.png)
 
 ![Program](../Images/final_calculator_diagram.png)
 
