@@ -124,7 +124,7 @@ Now let's discuss the commands used to compile and exceute the codes.
 > `spike pk <.o file>`
 
 * To disassemble the code
-> `riscv64-unknown-elf-objdump -d 1to9_custom.o | less`
+> `riscv64-unknown-elf-objdump -d <.o file> | less`
 
 * To run a .sh file run the following commands:
 > `chmod 777 <.sh file>`
