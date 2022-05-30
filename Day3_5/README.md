@@ -15,7 +15,7 @@ In Day 3, we have familiarized ourselves with the Makerchip IDE and the syntax o
 * Enables faster development
 
 
-In order to get comfortable with TL-Verilog we have implemented several digitel ciruits some of which are shown here.
+In order to get comfortable with TL-Verilog we have implemented several digital ciruits some of which are shown here.
 
 * Inverter
 
