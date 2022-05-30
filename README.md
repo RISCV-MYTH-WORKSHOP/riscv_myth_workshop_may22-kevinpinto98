@@ -50,7 +50,53 @@ The images below depict the results obtained after running the commands describe
 
 ![Program](Images/c_compilation.png)
 
+![Program](Images/riscv_compilation_main.png)
 
+![Program](Images/riscv_compilation_main_Ofast.png)
+
+![Program](Images/riscv_compilation_without_less.png)
+
+![Program](Images/riscv_compilation1.png)
+
+![Program](Images/riscv_compilation8.png)
+
+![Program](Images/spike_command_output.png)
+
+![Program](Images/spike_debugger.png)
+
+![Program](Images/spike_debugger_usage.png)
+
+![Program](Images/spike_debugger_usage2.png)
+
+![Program](Images/spike_debugger_usage3.png)
+
+![Program](Images/spike_debugger_usage4.png)
+
+![Program](Images/spike_debugger_usage.png)
+
+In addition to the program summing up numbers from 1 to n we also looked at programs that determined the range of values that could be represented by signed and unsigned numbers.
+
+Let's begin by looking at the case of Signed Numbers. The images below are of the code and the simulation results obtained during compilaton and execution of the said code.
+
+![Program](Images/signed_numbers_program.png)
+
+![Program](Images/signed_program_output.png)
+
+![Program](Images/signed_highest_program.png)
+
+![Program](Images/signed_highest_output.png)
+
+In addition to Signed numbers we also implemented the code for the case of Unsigned numbers as well. The results are as shown below:
+
+![Program](Images/unsignedhighest_program.png)
+
+![Program](Images/unsignedhighest_output.png)
+
+The images below are also for the case of Unsigned numbers but in here we are calculating the smallest number that can be represented using unsigned numbers.
+
+![Program](Images/unsignedhighest_output_negative.png)
+
+![Program](Images/unsignedhighest_program_negative.png)
 
 **Note:** The reports for Days 2 to 5 are documented in the README.md files present in the folders of the respective days.
 
