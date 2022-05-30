@@ -150,7 +150,7 @@ The github repo cloned also contains hex format files. The files are depicted be
 ![Program](Images/firmware32_file_contents_hex_format.png)
 
 ## Day 3: Digital Logic with TL-Verilog and Makerchip
-In Day 3, we have familiarized ourselves with the Makerchip IDE and the syntax of TL-Verilog. SOme features of TL-Verilog which make it unique are:
+In Day 3, we have familiarized ourselves with the Makerchip IDE and the syntax of TL-Verilog. Some features of TL-Verilog which make it unique are:
 
 * Easy Pipelining
 * Support for Timing Abstraction
@@ -158,7 +158,7 @@ In Day 3, we have familiarized ourselves with the Makerchip IDE and the syntax o
 * Enables faster development
 
 
-In order to get comfortable with TL-Verilog we have implemnted several digitl ciruits some of which are shown here.
+In order to get comfortable with TL-Verilog we have implemented several digital ciruits some of which are shown here.
 
 * Inverter
 
