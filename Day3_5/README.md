@@ -41,6 +41,8 @@ In order to get comfortable with TL-Verilog we have implemnted several digitl ci
 
 ![Program](../Images/mux_example.png)
 
+* Mux Vector
+
 ![Program](../Images/mux_vector_example.png)
 
 * Pythagoras Theorem
