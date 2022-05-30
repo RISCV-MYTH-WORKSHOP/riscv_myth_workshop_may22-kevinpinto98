@@ -218,6 +218,8 @@ In order to get comfortable with TL-Verilog we have implemented several digital 
 
 ![Program](Images/calculator_final_waveform2.png)
 
+Kindly note that the complete code for the calculator can be found in the "calculator_solutions.tlv" file in the "Day3_5" directory.
+
 ## Day 4: Basic RISC-V CPU Microarchitecture
 In Day 4 we have implemented the basic microarchitecture for the RISC-V ISA. The figure below depicts the basic microarchitecture that we will be implementing today.
 
