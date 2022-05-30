@@ -86,7 +86,11 @@ The images below depict the relevant figures obtained during the compilation and
 
 ![Program](../Images/diagram_not_pipelined.png)
 
+* Viz Window at Cycle 0
+
 ![Program](../Images/viz_initial.png)
+
+* Viz Window at the last cycle
 
 ![Program](../Images/viz_final.png)
 
