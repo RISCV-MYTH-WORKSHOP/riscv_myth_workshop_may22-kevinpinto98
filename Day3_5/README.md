@@ -94,6 +94,8 @@ The images below depict the relevant figures obtained during the compilation and
 
 ![Program](../Images/viz_final.png)
 
+* Waveform Snapshots
+
 ![Program](../Images/waveform_not_pipelined1.png)
 
 ![Program](../Images/waveform_not_pipelined2.png)
@@ -102,4 +104,26 @@ The images below depict the relevant figures obtained during the compilation and
 
 
 ## Day 5: Complete Pipelined RISC-V CPU Microarchitecture
+In Day 5 we have added pipeline stages for the microzrchitecture implemented in Day 4. The code for it can be found in the file "risc-v_solutions.tlv" in the folder "Day3_5".
 
+The images below depict the relevant figures obtained during the compilation and simulation of the code in the Makerchip IDE.
+
+![Program](../Images/pipelined_cpu_diagram.png)
+
+* Viz Window at Cycle 0
+
+![Program](../Images/viz_pipelined_initial.png)
+
+* Viz Window at the last cycle
+
+![Program](../Images/viz_pipelined_final.png)
+
+* Waveform Snapshots
+
+![Program](../Images/waveform_pipelined1.png)
+
+![Program](../Images/waveform_pipelined2.png)
+
+![Program](../Images/waveform_pipelined3.png)
+
+![Program](../Images/waveform_pipelined_4.png)
